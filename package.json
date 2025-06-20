@@ -1,0 +1,24 @@
+{
+  "name": "node-js-template",
+  "version": "1.0.0",
+  "description": "NodeJs technology configuration and dependencies template for web application projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asshleygozar/nodejs-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asshleygozar/nodejs-template/issues"
+  },
+  "homepage": "https://github.com/asshleygozar/nodejs-template#readme",
+  "devDependencies": {
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1"
+  }
+}
