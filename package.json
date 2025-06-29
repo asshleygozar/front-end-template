@@ -5,6 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "jest",
+		"watch": "jest --watch *.js",
 		"start": "npx webpack serve --open --config webpack.dev.js",
 		"build": "npx webpack --config webpack.prod.js",
 		"dev": "npx webpack serve --config webpack.dev.js"
