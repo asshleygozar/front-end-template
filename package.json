@@ -4,7 +4,7 @@
 	"description": "NodeJs technology configuration and dependencies template for web application projects",
 	"main": "index.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
+		"test": "jest",
 		"start": "npx webpack serve --open --config webpack.dev.js",
 		"build": "npx webpack --config webpack.prod.js",
 		"dev": "npx webpack serve --config webpack.dev.js"
