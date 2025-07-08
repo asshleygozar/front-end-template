@@ -1,5 +1,9 @@
-# NodeJs Project Template
-NodeJs Project Template is a template repository for quick NodeJs project configuration and dependencies setup.
+# Front End Template
+Front End Template is a template repository for quick front end project configuration and dependencies setup.
+
+## Technologies
+[![Technologies](https://skillicons.dev/icons?i=html,css,js,webpack)](https://skillicons.dev)
+
 ## Scripts
 
 **`npm test`** - enable unit testing using jest
