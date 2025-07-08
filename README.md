@@ -2,7 +2,7 @@
 Front End Template is a template repository for quick front end project configuration and dependencies setup.
 
 ## Technologies
-[![Technologies](https://skillicons.dev/icons?i=html,css,js,webpack)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=html,css,js,nodejs,webpack)](https://skillicons.dev)
 
 ## Scripts
 
